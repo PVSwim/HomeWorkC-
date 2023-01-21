@@ -1,4 +1,5 @@
-﻿/*
+﻿
+/*
 int[] CreateRandArray(int length, int min, int max)
 {
     int[] array = new int[length];
